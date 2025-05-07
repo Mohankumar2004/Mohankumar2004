@@ -1,4 +1,5 @@
-# 👋 Hi there, I'm Mohan Kumar!
+# 👋 Hi there ![Good Morning](https://img.shields.io/badge/Good_Morning-MohanKumar-yellow?style=flat&logo=github)
+, I'm Mohan Kumar!
 
 🎓 **Aspiring Software Developer | Tech Enthusiast | Lifelong Learner**
 
@@ -8,10 +9,10 @@ Welcome to my GitHub profile! I'm passionate about building software solutions t
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Python, Java, JavaScript, C++
+- **Languages:** Java, JavaScript, C++, C
 - **Web Development:** HTML5, CSS3, React, Node.js
-- **Databases:** MySQL, MongoDB
-- **Tools & Platforms:** Git, GitHub, VS Code, Linux
+- **Databases:** MySQL
+- **Tools & Platforms:** Git, GitHub, VS Code, Android Studio, Spring Tool Suite (STS)
 
 ---
 
@@ -20,6 +21,12 @@ Welcome to my GitHub profile! I'm passionate about building software solutions t
 ![Mohan Kumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohankumar2004&show_icons=true&theme=radical)
 
 ---
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mohankumar2004&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+![Good Morning](https://img.shields.io/badge/Good_Morning-MohanKumar-yellow?style=flat&logo=github)
+[![Mohan Kumar's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohankumar2004&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mohankumar2004&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohankumar2004&layout=compact&theme=radical)
+
 
 ## 📫 Let's Connect
 
