@@ -10,9 +10,9 @@ Welcome to my GitHub profile! I'm passionate about building software solutions t
 ## 🛠️ Tech Stack
 
 - **Languages:** Java, JavaScript, C++, C
-- **Web Development:** HTML5, CSS3, React, Node.js
-- **Databases:** MySQL
-- **Tools & Platforms:** Git, GitHub, VS Code, Android Studio, Spring Tool Suite (STS)
+- **Web Development:** HTML5, CSS3, React
+- **Databases:** MySQL, PostgreSQL
+- **Tools & Platforms:** Git, GitHub, VS Code, Android Studio, Spring Tool Suite (STS), Eclipse
 
 ---
 
