@@ -10,9 +10,9 @@ Welcome to my GitHub profile! I'm passionate about building software solutions t
 ## 🛠️ Tech Stack
 
 - **Languages:** Java, JavaScript, C++, C
-- **Web Development:** HTML5, CSS3, React
+- **Web Development:** HTML5, CSS3, React JS
 - **Databases:** MySQL, PostgreSQL
-- **Tools & Platforms:** Git, GitHub, VS Code, Android Studio, Spring Tool Suite (STS), Eclipse
+- **Tools & Platforms:** Git, GitHub, VS Code, Spring Tool Suite (STS), Eclipse, Android Studio, Postman
 
 ---
 
@@ -26,9 +26,10 @@ Welcome to my GitHub profile! I'm passionate about building software solutions t
 
 - 📧 Email: [mohankumar88387@gmail.com](mailto:mohankumar88387@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/mohankumar-m-9a1021226](https://www.linkedin.com/in/mohankumar-m-9a1021226/)
+- 📸 Instagram: [@mmk._.004](https://instagram.com/mmmk._.004)
 
 Feel free to reach out if you'd like to collaborate on a project or just want to connect!
 
 ---
 
-*“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
+“The best way to predict the future is to invent it.” – Alan Kay
