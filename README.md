@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm passionate about building software solutions t
 
 - 📧 Email: [mohankumar88387@gmail.com](mailto:mohankumar88387@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/mohankumar-m-9a1021226](https://www.linkedin.com/in/mohankumar-m-9a1021226/)
-- 📸 Instagram: [@mmk._.004](https://instagram.com/mmmk._.004)
+- 📸 Instagram: [@mmk._.004](https://instagram.com/mmk._.004)
 
 Feel free to reach out if you'd like to collaborate on a project or just want to connect!
 
