@@ -19,6 +19,9 @@ Welcome to my GitHub profile! I'm passionate about building software solutions t
 ## 📈 GitHub Stats
 
 ![Mohan Kumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohankumar2004&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohankumar2004&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohankumar2004&show_icons=true&theme=radical)
+
 
 ---
 
