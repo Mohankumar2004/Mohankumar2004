@@ -20,6 +20,11 @@ Welcome to my GitHub profile! I'm passionate about building software solutions t
 
 ![Mohan Kumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohankumar2004&show_icons=true&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohankumar2004&layout=compact&theme=radical)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Mohankumar2004&theme=radical)
+
+
 ---
 
 ## 📫 Let's Connect
